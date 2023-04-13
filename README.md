@@ -1,4 +1,5 @@
 # Installation Process
+The Doctor appointment application is a web-based platform developed using the Laravel framework that allows patients to schedule appointments with doctors online. The application is designed to simplify the process of booking appointments for patients and to improve the overall experience of visiting a doctor.
 
 ### Clone
 ```
