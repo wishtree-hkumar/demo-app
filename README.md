@@ -2,7 +2,7 @@
 
 ### Clone
 ```
-git clone https://github.com/hiteshkr1995/netwin-test-app.git
+git clone https://github.com/wishtree-hkumar/demo-app.git
 ```
 
 ### Change directory
