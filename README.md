@@ -7,7 +7,7 @@ git clone https://github.com/wishtree-hkumar/demo-app.git
 
 ### Change directory
 ```
-cd netwin-test-app
+cd demo-app
 ```
 
 ### Create .env
@@ -30,7 +30,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=netwin_test_app
+DB_DATABASE=test_app
 DB_USERNAME=root
 DB_PASSWORD=
 ```
